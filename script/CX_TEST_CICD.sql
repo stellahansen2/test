@@ -10,3 +10,4 @@ insert into "GPC"."CX_TEST_CICD_SCRIPT" values (13, 'Stella', 'changed');
 insert into "GPC"."CX_TEST_CICD_SCRIPT" values (12, 'stella1', 'not Changed');
 insert into "GPC"."CX_TEST_CICD_SCRIPT" values (11, 'stella2', 'Changed');
 
+/*this is a change
